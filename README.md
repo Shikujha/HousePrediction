@@ -1,30 +1,30 @@
 # House-Price-Prediction
 This project is based on Data Ananlysis and Machine Learning(Linear Regression) to predict the House price on the basis of previous data. 
 # Steps
-0)Data Analysis
+(0)Data Analysis
 
-  a)Insights/overview of data.
+     a)Insights/overview of data.
   
-  b)Correlation between data.
+     b)Correlation between data.
   
-  c)Data missing or not.
+     c)Data missing or not.
   
-  d)Graph plotting.
+     d)Graph plotting.
   
-1)Finding the types of model to be use according to question requirement.
+(1)Finding the types of model to be use according to question requirement.
 
-  a)Supervised,Unsupervised or Reinforcement learning ?
+     a)Supervised,Unsupervised or Reinforcement learning ?
   
-  b)Classification task or regression task ?
+     b)Classification task or regression task ?
   
-  c)Batch learning or Online learning ?
+     c)Batch learning or Online learning ?
   
 Here, Supervised regression technique is used.
 
-2)selecting performence measure(Evaluating the model).
+(2)selecting performence measure(Evaluating the model).
 
-   a)RMSE,MAE etc
+     a)RMSE,MAE etc
    
 Here, RMSE is used.
 
-3)Launching the model.
+(3)Launching the model.
